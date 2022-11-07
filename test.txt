@@ -3,4 +3,4 @@ Xixun Test Git 22222
 master Test
 hot-fix Test
 Github 拉取测试--XiXun
-ssh Test -XIXUn
+ssh Test -XiXun
